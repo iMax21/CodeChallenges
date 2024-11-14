@@ -18,5 +18,5 @@ I’m using this repository as a way to track my coding progress. Here’s a qui
 
 | Language     | Challenges Solved | Last Updated  |
 |--------------|-------------------|---------------|
-| Python       | 0                | n/a           |
+| Python       | 1                 | Nov 2024      |
 
