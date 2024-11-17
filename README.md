@@ -18,5 +18,6 @@ I’m using this repository as a way to track my coding progress. Here’s a qui
 
 | Language     | Challenges Solved | Last Updated  |
 |--------------|-------------------|---------------|
-| Python       | 1                 | Nov 2024      |
+| Python       | 2                 | Nov 2024      |
+| Ruby         | 1                 | Nov 2024      |
 
